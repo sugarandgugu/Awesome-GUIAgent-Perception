@@ -1,8 +1,10 @@
-# Awesome-GUIAgent-Perception
-Awesome-LLM: a curated list of GUIAgent's Perception
+# Awesome GUI Agent
+Awesome GUI Agent: a curated list of GUI Agent
 
 
 # ❤‍🔥News
+🤏 [2025-3-8] Happy Women's Day! I'm working hard on revising my survey. I will update the repository soon and provide my paper notes.
+
 🤏 [2025-2-27] Sorry for the delay, Working on it.
 
 🤏 [2025-2-9] Trust me. I promise I will update this repo until the deadline of ACL2025. I will do it.
