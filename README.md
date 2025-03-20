@@ -3,6 +3,8 @@ Awesome GUI Agent: a curated list of GUI Agent
 
 
 # ❤‍🔥News
+🤏 [2025-3-20] I will update this repo this weekend.
+
 🤏 [2025-3-10] Fighting.
 
 🤏 [2025-3-8] Happy Women's Day! I'm working hard on revising my survey. I will update the repository soon and provide my paper notes.
