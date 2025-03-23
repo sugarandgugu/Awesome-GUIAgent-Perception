@@ -3,6 +3,8 @@ Awesome GUI Agent: a curated list of GUI Agent
 
 
 # ❤‍🔥News
+🤏 [2025-3-23] Working on it.
+
 🤏 [2025-3-20] I will update this repo this weekend.
 
 🤏 [2025-3-10] Fighting.
