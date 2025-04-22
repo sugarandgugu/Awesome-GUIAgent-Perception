@@ -1,8 +1,9 @@
 # Awesome GUI Agent
 Awesome GUI Agent: a curated list of GUI Agent
 
-
 # ❤‍🔥News
+🤏 [2025-4-22] Our Paper have released. The related repo is [here](https://github.com/CCAI-Lab/Awesome-GUI-Agents). Our paper is [here](https://arxiv.org/abs/2504.13865)
+
 🤏 [2025-3-23] Working on it. I will classify the perception of GUI Agents into four types: training mllm, general mllm, text-based llm, tool mllm.
 
 🤏 [2025-3-20] I will update this repo this weekend.
